@@ -1,0 +1,1 @@
+module.exports.phqrigaldfj = 'CA6BFA6CC6654415FCD25743FE385';
