@@ -13,7 +13,7 @@
     "jasmine-node": "^1.14.5",
     "knex": "^0.14.6",
     "mariasql": "^0.2.6",
-    "mongodb": "^3.1.3",
+    "mongodb": "^3.1.13",
     "mysql": "^2.16.0",
     "nodemailer": "^4.6.8",
     "nodemon": "^1.17.1",
